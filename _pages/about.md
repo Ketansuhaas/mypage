@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m a first-year Ph.D. student at **Georgia Tech**, where I’m fortunate to be advised by [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). I completed my bachelor’s at Manipal Institute of Technology, India, in 2022, where I had an incredible learning experience. For my bachelor's thesis, I interned at IISc Bangalore.
-
-My research focuses on advancing areas like Computer Vision, NLP, Semi/Self-supervised Learning, Zero-Shot Learning, Domain Adaptation, and Continual Learning. I’m passionate about creating deep learning models that require minimal supervision. 
-
-Lately, I’ve been diving into Multimodal Large Language Models (LLMs) — if you’re working in this area or just curious, feel free to reach out. I’d love to chat! 
+Hi! I’m a Ketan.
 <br>
 
 ---
