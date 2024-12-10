@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Ketan Suhaas Saichandran"
 title_separator          : "-"
-name                     : &name "Sahil Khose"
-description              : &description "AI Research Intern at IISc Bangalore"
+name                     : &name "Ketan Suhaas"
+description              : &description "-"
 url                      : https://ketansuhaas.github.io/mypage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "-"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ketan Suhaas Saichandran"
   avatar           : "profile.png"
-  bio              : "Ph.D. CS at Georgia Tech"
-  location         : "Atlanta"
+  bio              : "MS AI at Boston University, B.Tech EE at IIT Roorkee"
+  location         : "Boston"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=p1AgiZcAAAAJ&hl=en"
-  email            : "sahil.khose@gatech.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yht46y4AAAAJ&view_op=list_works&gmla=AFix5Madl1UutbqBY-Fez7b2fVrtg54lv2lYO-mp7TlSF3gUU99CRwNqn-GD5F6MvRS7rfhKdeu8hCiMEAcmSLrx"
+  email            : "ketanss@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,18 +102,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sahilkhose"
+  linkedin         : "-"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SahilKhose"
+  twitter          : "-"
   vine             :
   weibo            :
   xing             :
-  youtube          : "SahilKhose"
+  youtube          : "-"
   wikipedia        :
 
 
