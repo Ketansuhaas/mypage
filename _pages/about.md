@@ -7,17 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m a Ketan.
+Hi! I’m a Ketan
 <br>
 
 ---
 ## Recent Updates
 [ 🌟: Important | 💡: Research Paper | 📆: Miscellaneous ]
 
-- 
+- 🌟 Attending ECCV 2024 at Milan, Italy! Georgia Tech published an [article](https://www.cc.gatech.edu/news/skyscenes-dataset-could-lead-safe-reliable-autonomous-flying-vehicles) about our work!
+
+- 💡 Jul 1, 2024: My first first-author paper -- [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719) is accepted at ECCV 2024!
+
+- 🌟 Apr 1, 2024: Joining Georgia Tech for Ph.D. CS under **Prof. Judy Hoffman** in Fall 2024. 
+
+- 📆 Mar 12, 2024: Serving as a reviewer for ECCV 2024.
+
+- 💡 Oct 24, 2023: My first main-conference paper - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596) is accepted at WACV 2024!
+
+- 🌟 September, 2023: Joined [MS AI] program at [Boston University](https://www.bu.edu/)
+
+- 🌟 July, 2019: Admitted to the [B.Tech EE] program of [IIT Roorkee](https://www.iitr.ac.in/)
 
 --- 
-## Publications/Pre-Prints
+## Publications
 ### 2024
 
 - ***ECCV 2024*** [First first-author paper!]
@@ -30,6 +42,11 @@ Hi! I’m a Ketan.
 | [GitHub](https://github.com/hoffman-group/SkyScenes)
 ![Sample Image](/images/skyscenes.png)
 
+
+- ***WACV 2024*** [First main-conference paper!]
+  - [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/abs/2308.14596)
+  - Ran Liu, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer
+![Sample Image](/images/latentdr.png)
 
 ### 2022
 - ***NeurIPS 2022*** [Visted my first in-person conference in New Orleans!]
