@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Ketan Suhaas Saichandran"
 title_separator          : "-"
 name                     : &name "Sahil Khose"
-description              : &description "AI Research Intern at IISc Bangalore"
-url                      : https://ketansuhaas.github.io/mypage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "-"
+url                      : https://ketansuhaas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/mypage" # the subpath of your site, e.g. "/blog"
 repository               : "-"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sahilkhose"
+  github           : "Ketansuhaas"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sahilkhose"
+  linkedin         : "Ketan Suhaas Saichandran"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SahilKhose"
+  twitter          : "-"
   vine             :
   weibo            :
   xing             :
-  youtube          : "SahilKhose"
+  youtube          : "-"
   wikipedia        :
 
 
