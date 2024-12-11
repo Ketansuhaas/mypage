@@ -54,7 +54,6 @@ Hi! I’m Ketan.
   - Examining a specific background process behind making efficient predictions.
 
 - **Upcoming paper in diffusion models**
-  - SCoPE Diffusion: Scheduling interpolation of Coarse-to-fine Prompt Embeddings (under preparation)
   - Modified denoising process in latent diffusion models for text-alignment in complex scenes
   - Inspired by how humans create mental images and how human artists break down the painting process
 
