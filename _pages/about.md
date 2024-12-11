@@ -14,10 +14,15 @@ Hi! I’m Ketan.
 ---
 ## Recent Updates
 
+- Applying to CS PhD Programs working at the intersection of AI, Neuroscience and Cognitive Science
 
-- 🌟 September, 2023: Joined the MS AI program at [Boston University](https://www.bu.edu/)
+- May, 2024: Joined [Banaji Implicit Social Cognition Lab](https://banaji.sites.fas.harvard.edu/) at Harvard University
 
-- 🌟 July, 2019: Joined the B.Tech EE program at [IIT Roorkee](https://www.iitr.ac.in/)
+- September, 2023: Joined [Kolachalama Lab](https://vkola-lab.github.io/) at BU 
+
+- September, 2023: Joined the MS AI program at [Boston University](https://www.bu.edu/)
+
+- July, 2019: Joined the B.Tech EE program at [IIT Roorkee](https://www.iitr.ac.in/)
 
 --- 
 ## Works
