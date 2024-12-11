@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Ketan Suhaas Saichandran"
 title_separator          : "-"
-name                     : &name "Ketan Suhaas"
-description              : &description "-"
-url                      : https://ketansuhaas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sahil Khose"
+description              : &description "AI Research Intern at IISc Bangalore"
+url                      : https://ketansuhaas.github.io/mypage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Ketansuhaas/mypage/tree/master"
+repository               : "-"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,8 +86,8 @@ author:
   location         : "Boston"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yht46y4AAAAJ&view_op=list_works&gmla=AFix5Madl1UutbqBY-Fez7b2fVrtg54lv2lYO-mp7TlSF3gUU99CRwNqn-GD5F6MvRS7rfhKdeu8hCiMEAcmSLrx"
-  email            : "ketanss@bu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=p1AgiZcAAAAJ&hl=en"
+  email            : "sahil.khose@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ketansuhaas"
+  github           : "sahilkhose"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ketan-suhaas-saichandran-050638245/"
+  linkedin         : "sahilkhose"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "SahilKhose"
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          : "SahilKhose"
   wikipedia        :
 
 
