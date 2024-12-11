@@ -50,7 +50,7 @@ Hi! I’m Ketan.
 
 - **Master's Thesis (upcoming)**
   - How are humans so good at making predictions with very few features?
-  - Does abstraction complexity of the data alter the predictions?
+  - Does abstraction complexity of the data alter the predictive performance?
   - Examining a specific background process behind making efficient predictions.
 
 - **Upcoming paper in diffusion models**
