@@ -23,10 +23,11 @@ Hi! I’m Ketan.
 ## Works
 ### 2024
 
-- ***ECCV 2024*** [First first-author paper!]
-  - [SkyScenes: A Synthetic Dataset for Aerial Scene Understanding](https://arxiv.org/abs/2312.06719)
-  - Sahil Khose\*, Anisha Pal\*, Aayushi Agarwal\*, Deepanshi\*, Judy Hoffman, Prithvijit Chattopadhyay
-  - [Website](https://hoffman-group.github.io/SkyScenes/)
+- Uploaded my conceptual manuscript on intelligence
+  - [The Geometry Theory of Intelligence Meets General Relativity](https://www.researchgate.net/profile/Ketan-Suhaas-Saichandran/publication/385896106_The_Geometry_Theory_of_Intelligence_Meets_General_Relativity/links/673a5d724a70511f0727fa1a/The-Geometry-Theory-of-Intelligence-Meets-General-Relativity.pdf)
+  - Proposes an extension to [A mathematical framework of intelligence and consciousness based on Riemannian Geometry](https://arxiv.org/abs/2407.11024)
+  - Discusses how thought flow can be considered as free fall in the cognitive-spacetime.
+  - Utilizes analogies from General Relativity to structure the dynamic changes in this cognitive-spactime.
 
 
 
