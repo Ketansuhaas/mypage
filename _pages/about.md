@@ -24,16 +24,6 @@ Hi! I’m Ketan.
 
 ### 2024
 
-- **Master's Thesis (upcoming)**
-  - How are humans so good at making predictions with very few features?
-  - Does abstraction complexity of the data alter the predictions?
-  - Examining a specific background process behind making efficient predictions.
-
-- **Upcoming paper in diffusion models**
-  - SCoPE Diffusion: Scheduling interpolation of Coarse-to-fine Prompt Embeddings (under preparation)
-  - Modified denoising process in latent diffusion models for text-alignment in complex scenes
-  - Inspired by how humans create mental images and how human artists break down the painting process
-
 - **My first cognitive science/psychology paper**
   - GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice (Paper under review)
   - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs
@@ -45,11 +35,21 @@ Hi! I’m Ketan.
   - Proposes a new way to acquire informative features based on feature attributions during inference 
   - Introduces a two-stage training strategy to predict feature attributions 
 
-- Uploaded my conceptual manuscript on intelligence
+- **Uploaded my conceptual manuscript on intelligence**
   - [The Geometry Theory of Intelligence Meets General Relativity](https://www.researchgate.net/profile/Ketan-Suhaas-Saichandran/publication/385896106_The_Geometry_Theory_of_Intelligence_Meets_General_Relativity/links/673a5d724a70511f0727fa1a/The-Geometry-Theory-of-Intelligence-Meets-General-Relativity.pdf)
   - Proposes an extension to [A mathematical framework of intelligence and consciousness based on Riemannian Geometry](https://arxiv.org/abs/2407.11024)
   - Discusses how thought flow can be considered as free fall in the cognitive-spacetime.
   - Utilizes analogies from General Relativity to structure the dynamic changes in this cognitive-spactime.
 
+## Upcoming Works
 
+- **Master's Thesis (upcoming)**
+  - How are humans so good at making predictions with very few features?
+  - Does abstraction complexity of the data alter the predictions?
+  - Examining a specific background process behind making efficient predictions.
+
+- **Upcoming paper in diffusion models**
+  - SCoPE Diffusion: Scheduling interpolation of Coarse-to-fine Prompt Embeddings (under preparation)
+  - Modified denoising process in latent diffusion models for text-alignment in complex scenes
+  - Inspired by how humans create mental images and how human artists break down the painting process
 
