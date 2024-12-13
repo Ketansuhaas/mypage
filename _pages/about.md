@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Ketan. 
+Hi! I’m Ketan. I'm currently pursing a Master's in Artificial Intelligence at Boston University. I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee in 2023. My research interest falls at the intersection of AI, Neuroscience and Cognitive Science. My curiosity stretches beyond limits when it comes to understanding intelligence. Intelligence is the primary reason why Homo Sapiens have long ruled this planet. Humans are the most intelligent of the known species that exist on this planet, if they were not, the population composition would have been much different. I want to study how to replicate human intelligence in computational models efficiently and accurately, and believe it is possible by developing models of human neurobiological systems and cognitive mechanisms.
 
 <br>
 
