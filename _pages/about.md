@@ -9,6 +9,18 @@ redirect_from:
 ---
 Hi! I’m Ketan. I'm currently pursing a Master's in Artificial Intelligence at Boston University. I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee in 2023. My research interest falls at the intersection of AI, Neuroscience and Cognitive Science. My curiosity stretches beyond limits when it comes to understanding intelligence. Intelligence is the primary reason why Homo Sapiens have long ruled this planet. Humans are the most intelligent of the known species that exist on this planet, if they were not, the population composition would have been much different. I want to study how to replicate human intelligence in computational models efficiently and accurately, and believe it is possible by developing models of human neurobiological systems and cognitive mechanisms.
 
+## My thoughts on AGI
+The goal of creating an "all-knowing" AI is not AGI.
+Purely trying to scale training data and resources doesn't make sense and is also harmful to the environment and economy. Humans are not "all-knowing", but they have clearly conquered the quest for survival on this planet. 
+
+The goal should be to develop efficient intelligent machines that can:
+- Learn from very few or no examples. 
+- Build other task-specific intelligent machines.
+
+Hierarchy and collaboration—Humans work as a society, no single person can learn "everything about everything". It's either "something about everything" or "everything about something". Yet here we are, the most intelligent species ever known to exist.
+
+Do you agree?
+
 <br>
 
 ---
