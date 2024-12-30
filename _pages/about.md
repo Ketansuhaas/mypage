@@ -44,13 +44,13 @@ Do you agree?
 ### 2024
 
 - **My first cognitive science/psychology paper**
-  - GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice (Paper under review)
+  - GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice (Paper under review in ICLR 2025)
   - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs
   - We discovered shocking evidence that large language models (LLMs) might be developing an understanding of "self"
   - Brings in ethical questions of whether giving AI autonomy is safe
 
 - **My first technical paper in Explainable AI & Machine learning**
-  - Explainablity-Driven Active Feature Acquisition (AFA) in Learning Systems (Paper under review)
+  - Explainablity-Driven Active Feature Acquisition (AFA) in Learning Systems (Paper under review in Science (AAAS))
   - Proposes a new way to acquire informative features based on feature attributions during inference 
   - Introduces a two-stage training strategy to predict feature attributions 
 
@@ -72,5 +72,5 @@ Do you agree?
   - Inspired by how humans create mental images and how human artists break down the painting process
 
 - **Second AFA paper**
-  - Dynamic imputation for maximizing mutual information for dynamic feature selection (Paper under review)
+  - Dynamic imputation for maximizing mutual information for dynamic feature selection (To be submitted to ICML 2025)
   - Proposes a new generative imputation based approach for improving feature selection in AFA frameworks.
