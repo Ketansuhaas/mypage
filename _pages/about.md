@@ -28,7 +28,7 @@ Do you agree?
 ---
 ## Recent Updates
 
-- December, 2024: Applying to CS PhD Programs at labs working at the intersection of AI, Neuroscience and Cognitive Science
+<!-- - December, 2024: Applying to CS PhD Programs at labs working at the intersection of AI, Neuroscience and Cognitive Science -->
 
 - May, 2024: Joined [Banaji Implicit Social Cognition Lab](https://banaji.sites.fas.harvard.edu/) at Harvard University
 
