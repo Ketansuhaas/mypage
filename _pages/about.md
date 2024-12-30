@@ -50,7 +50,7 @@ Do you agree?
   - Brings in ethical questions of whether giving AI autonomy is safe
 
 - **My first technical paper in Explainable AI & Machine learning**
-  - Explainablity-Driven Active Feature Acquisition in Learning Systems (Paper under review)
+  - Explainablity-Driven Active Feature Acquisition (AFA) in Learning Systems (Paper under review)
   - Proposes a new way to acquire informative features based on feature attributions during inference 
   - Introduces a two-stage training strategy to predict feature attributions 
 
@@ -71,3 +71,6 @@ Do you agree?
   - Modified denoising process in latent diffusion models for text-alignment in complex scenes
   - Inspired by how humans create mental images and how human artists break down the painting process
 
+- **Second AFA paper**
+  - Dynamic imputation for maximizing mutual information for dynamic feature selection (Paper under review)
+  - Proposes a new generative imputation based approach for improving feature selection in AFA frameworks.
