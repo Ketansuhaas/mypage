@@ -7,21 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Ketan. I'm currently pursing a Master's in Artificial Intelligence at Boston University. I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee in 2023. My research interest falls at the intersection of AI, Neuroscience and Cognitive Science. My curiosity stretches beyond limits when it comes to understanding intelligence. Intelligence is the primary reason why Homo Sapiens have long ruled this planet. Humans are the most intelligent of the known species that exist on this planet, if they were not, the population composition would have been much different. I want to study how to replicate human intelligence in computational models efficiently and accurately, and believe it is possible by developing models of human neurobiological systems and cognitive mechanisms.
+Hi! I’m Ketan. I'm currently pursing a Master's in Artificial Intelligence at Boston University. I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee in 2023. My research interest falls at the intersection of AI, Neuroscience and Cognitive Science. My curiosity stretches beyond limits when it comes to understanding intelligence. Intelligence is the primary reason why Homo Sapiens have long ruled this planet. Humans are the most intelligent of the known species that exist on this planet, if they had not been, the population composition would have been much different. I want to study how to replicate human intelligence in computational models efficiently and accurately, and believe it is possible by developing models of human neurobiological systems and cognitive mechanisms.
 
 Outside of research, I love playing the piano and singing. I was a ranked player and used to compete in counterstrike/valorant, tennis, athletics (100m sprint), powerlifting and speedcubing. I've also received multiple national awards for art & painting.
 
 ## My thoughts on AGI
-The goal of creating an "all-knowing" AI is not AGI.
-Purely trying to scale training data and resources doesn't make sense and is also harmful to the environment and economy. Humans are not "all-knowing", but they have clearly conquered the quest for survival on this planet. 
+Humans are not "all-knowing", but they have clearly conquered the quest for survival on this planet. 
 
 The goal should be to develop efficient intelligent machines that can:
 - Learn from very few or no examples. 
-- Build other task-specific intelligent machines.
+- Generalize across multiple unseen domains
+- Collaborate with other machines
 
 Hierarchy and collaboration—Humans work as a society, no single person can learn "everything about everything". It's either "something about everything" or "everything about something". Yet here we are, the most intelligent species ever known to exist.
-
-Do you agree?
 
 <br>
 
@@ -32,7 +30,7 @@ Do you agree?
 
 - May, 2024: Joined [Banaji Implicit Social Cognition Lab](https://banaji.sites.fas.harvard.edu/) at Harvard University
 
-- September, 2023: Joined [Kolachalama Lab](https://vkola-lab.github.io/) at BU 
+- September, 2023: Joined [Kolachalama Lab](https://vkola-lab.github.io/) at Boston University
 
 - September, 2023: Joined the MS AI program at [Boston University](https://www.bu.edu/)
 
@@ -44,14 +42,14 @@ Do you agree?
 ### 2024
 
 - **My first cognitive science/psychology paper**
-  - GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice (Paper under review in Science (AAAS))
+  - [GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice (Paper under review in Science (AAAS))](https://doi.org/10.31219/osf.io/zewbr_v1)
   - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs
   - We discovered shocking evidence that large language models (LLMs) might be developing an understanding of "self"
   - Brings in ethical questions of whether giving AI autonomy is safe
 
 - **My first technical paper in Explainable AI & Machine learning**
-  - Explainablity-Driven Active Feature Acquisition (AFA) in Learning Systems (To be submitted to ICML 2025)
-  - Proposes a new way to acquire informative features based on feature attributions during inference 
+  - Active Feature Acquisition via Explainability-driven Ranking (Under review in ICML 2025)
+  - Proposes a new way to acquire informative features for efficient predictions based on feature attributions during inference 
   - Introduces a two-stage training strategy to predict feature attributions 
 
 - **Uploaded my conceptual manuscript on intelligence**
@@ -61,16 +59,16 @@ Do you agree?
   - Utilizes analogies from General Relativity to structure the dynamic changes in this cognitive-spactime.
 
 ## Upcoming Works
-
+<!-- 
 - **Master's Thesis (upcoming)**
   - How are humans so good at making predictions with very few features?
   - Does abstraction complexity of the data alter the predictive performance?
-  - Examining a specific background process behind making efficient predictions.
+  - Examining a specific background process behind making efficient predictions. -->
 
-- **Upcoming paper in diffusion models**
+- **Paper in diffusion models**
   - Modified denoising process in latent diffusion models for text-alignment in complex scenes
   - Inspired by how humans create mental images and how human artists break down the painting process
 
 - **Second AFA paper**
-  - Dynamic imputation for maximizing mutual information for dynamic feature selection (To be submitted to ICML 2025)
+  - Modeling conditional distributions improves mutual information for greedy dynamic feature selection
   - Proposes a new generative imputation based approach for improving feature selection in AFA frameworks.
