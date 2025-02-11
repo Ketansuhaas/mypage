@@ -41,16 +41,16 @@ Hierarchy and collaboration—Humans work as a society, no single person can lea
 
 ### 2024
 
-- **My first cognitive science/psychology paper**
-  - [GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice (Paper under review in Science (AAAS))](https://doi.org/10.31219/osf.io/zewbr_v1)
-  - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs
-  - We discovered shocking evidence that large language models (LLMs) might be developing an understanding of "self"
-  - Brings in ethical questions of whether giving AI autonomy is safe
-
 - **My first technical paper in Explainable AI & Machine learning**
   - Active Feature Acquisition via Explainability-driven Ranking (Under review in ICML 2025)
   - Proposes a new way to acquire informative features for efficient predictions based on feature attributions during inference 
   - Introduces a two-stage training strategy to predict feature attributions 
+
+- **My first cognitive science/psychology paper**
+  - [GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice](https://doi.org/10.31219/osf.io/zewbr_v1) (Under review in PNAS)
+  - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs
+  - We discovered shocking evidence that large language models (LLMs) might be developing an understanding of "self"
+  - Brings in ethical questions of whether giving AI autonomy is safe
 
 - **Uploaded my conceptual manuscript on intelligence**
   - [The Geometry Theory of Intelligence Meets General Relativity](https://www.researchgate.net/profile/Ketan-Suhaas-Saichandran/publication/385896106_The_Geometry_Theory_of_Intelligence_Meets_General_Relativity/links/673a5d724a70511f0727fa1a/The-Geometry-Theory-of-Intelligence-Meets-General-Relativity.pdf)
