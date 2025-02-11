@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Ketan. I'm currently pursing a Master's in Artificial Intelligence at Boston University. I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee in 2023. My research interest falls at the intersection of AI, Neuroscience and Cognitive Science. My curiosity stretches beyond limits when it comes to understanding intelligence. Intelligence is the primary reason why Homo Sapiens have long ruled this planet. Humans are the most intelligent of the known species that exist on this planet, if they had not been, the population composition would have been much different. I want to study how to replicate human intelligence in computational models efficiently and accurately, and believe it is possible by developing models of human neurobiological systems and cognitive mechanisms.
+Hi! I’m Ketan. I'm currently pursing a Master's in Artificial Intelligence at Boston University. I received my bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee in 2023. My research interest falls at the intersection of AI, Neuroscience and Cognitive Science. My curiosity stretches beyond limits when it comes to understanding intelligence. Intelligence is the primary reason why Homo Sapiens have long ruled this planet. I want to study how to utilize what we know about human intelligence to create better AI models; at the same time, to utilize AI models to better understand about the human brain and mind.
 
 Outside of research, I love playing the piano and singing. I was a ranked player and used to compete in counterstrike/valorant, tennis, athletics (100m sprint), powerlifting and speedcubing. I've also received multiple national awards for art & painting.
 
@@ -19,7 +19,7 @@ The goal should be to develop efficient intelligent machines that can:
 - Generalize across multiple unseen domains
 - Collaborate with other machines
 
-Hierarchy and collaboration—Humans work as a society, no single person can learn "everything about everything". It's either "something about everything" or "everything about something". Yet here we are, the most intelligent species ever known to exist.
+Hierarchy and collaboration—Humans work as a society, no single person can learn "everything about everything". It's either "something about everything" or "everything about something". Collective intelligence is perhaps a stronger reason behind humanity's progress. Why not focus more on developing AI models that collaborate and solve problems?
 
 <br>
 
@@ -46,7 +46,7 @@ Hierarchy and collaboration—Humans work as a society, no single person can lea
   - Proposes a new way to acquire informative features for efficient predictions based on feature attributions during inference 
   - Introduces a two-stage training strategy to predict feature attributions 
 
-- **My first cognitive science/psychology paper**
+- **My first cognitive psychology paper**
   - [GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice](https://doi.org/10.31219/osf.io/zewbr_v1) (Under review in PNAS)
   - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs
   - We discovered shocking evidence that large language models (LLMs) might be developing an understanding of "self"
