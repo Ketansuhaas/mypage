@@ -48,10 +48,10 @@ Hierarchy and collaboration—Humans work as a society, no single person can lea
 
 - **My first cognitive psychology paper**
   - [GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice](https://doi.org/10.31219/osf.io/zewbr_v1) (Under review in PNAS)
-  - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs
-  - We discovered shocking evidence that large language models (LLMs) might be developing an understanding of "self"
-  - Brings in ethical questions of whether giving AI autonomy is safe
-
+  - Some aspects of cognition that are unique to humans have not yet been fully addressed in LLMs.
+  - We discovered shocking evidence that large language models (LLMs) might be showing cognitive consistency effects similar to humans.
+  - GPT-4o displays strong attitude changes moderated by free choice.
+  
 - **Uploaded my conceptual manuscript on intelligence**
   - [The Geometry Theory of Intelligence Meets General Relativity](https://www.researchgate.net/profile/Ketan-Suhaas-Saichandran/publication/385896106_The_Geometry_Theory_of_Intelligence_Meets_General_Relativity/links/673a5d724a70511f0727fa1a/The-Geometry-Theory-of-Intelligence-Meets-General-Relativity.pdf)
   - Proposes an extension to [A mathematical framework of intelligence and consciousness based on Riemannian Geometry](https://arxiv.org/abs/2407.11024)
