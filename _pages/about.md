@@ -27,7 +27,7 @@ Hierarchy and collaboration—Humans work as a society, no single person can lea
 ## Recent Updates
 
 <!-- - December, 2024: Applying to CS PhD Programs at labs working at the intersection of AI, Neuroscience and Cognitive Science -->
-- January, 2025: Joined as a researcher at The Science of Human and Artificial Social Minds [(SHASM)](https://shasm-research.github.io/)
+- January, 2025: Joined The Science of Human and Artificial Social Minds [(SHASM)](https://shasm-research.github.io/) group at Harvard as a researcher 
 
 - May, 2024: Joined [Banaji Implicit Social Cognition Lab](https://banaji.sites.fas.harvard.edu/) at Harvard University
 
