@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ketan Suhaas Saichandran"
-  pronouns         : "he/him"
+  pronouns         : #"he/him"
   bio              : "AI Researcher"
   location         : "Boston, MA, United States"
   employer         : "Boston University"
